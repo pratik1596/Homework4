@@ -6,3 +6,6 @@ This project is a homework assignment to learn how to set up Pycharm with Docker
 
 ### __SQL Data Screenshot:__
 ![pycharm data query](screenshots/query.png)
+
+### __Postman Request Screenshot:__
+![postman request output](screenshots/postman.png)
